@@ -1,0 +1,13 @@
+
+# Raw packet captures - keep private
+captures/
+*.pcap
+*.pcapng
+
+# Temporary files
+*.tmp
+*.log
+
+# Operating system files
+Thumbs.db
+.DS_Store
