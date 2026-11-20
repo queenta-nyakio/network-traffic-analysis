@@ -68,3 +68,13 @@ Traffic was captured for educational analysis on an authorised network. Sensitiv
 ## 9. Project Status
 
 Initial DNS and TCP investigations completed. Further evidence collection, documentation review and project publication are in progress.
+
+
+
+## Wireshark Evidence
+
+### DNS Response Analysis
+![DNS Response](screenshots/dns-response.png)
+
+### TCP Three-Way Handshake
+![TCP Three-Way Handshake](screenshots/tcp-three-way-handshake.png)
