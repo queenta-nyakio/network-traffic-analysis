@@ -67,14 +67,27 @@ Traffic was captured for educational analysis on an authorised network. Sensitiv
 
 ## 9. Project Status
 
-Initial DNS and TCP investigations completed. Further evidence collection, documentation review and project publication are in progress.
+**<u>Completed</u>**
 
+The network traffic analysis project has been successfully completed and published on GitHub. The following activities were carried out:
 
+- Captured live network traffic using Wireshark.
+- Identified and analysed DNS queries and responses.
+- Examined DNS CNAME and A records.
+- Analysed TCP connection establishment through the three-way handshake (SYN, SYN-ACK and ACK).
+- Applied Wireshark display filters to isolate relevant packets.
+- Documented technical observations and findings.
+- Prepared and published redacted screenshots as supporting evidence.
+- Used Git and GitHub for version control and project publication.
 
-## Wireshark Evidence
+The project demonstrates foundational practical skills in network protocol analysis, packet inspection, DNS resolution and TCP communication.
+
+## 10. Wireshark Evidence
 
 ### DNS Response Analysis
+
 ![DNS Response](screenshots/dns-response.png)
 
 ### TCP Three-Way Handshake
+
 ![TCP Three-Way Handshake](screenshots/tcp-three-way-handshake.png)
